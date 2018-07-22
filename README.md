@@ -1,3 +1,5 @@
+NOTE: Forked from https://github.com/rdelcorro/Arduino-LedControl and updated the header file to support esp8266
+
 LedControl
 ==========
 LedControl is an [Arduino](http://arduino.cc) library for MAX7219 and MAX7221 Led display drivers.
